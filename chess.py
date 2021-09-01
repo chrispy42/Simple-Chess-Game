@@ -1,3 +1,8 @@
+'''
+This was one of my first pygame projects and is a simple game of chess. It is able to manage player turns and doesn't allow you to make illegal moves including
+when you are in check. It is very long and repetative and I clearly did not have much of a grasp on how classes and inheritence could be used at the time but still cool
+'''
+
 import pygame
 import random
 pygame.font.init()
